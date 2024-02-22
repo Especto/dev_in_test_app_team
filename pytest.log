@@ -1,0 +1,35 @@
+2024-02-22 06:03:09 - [test_login.py:14] - INFO - Starting activity
+2024-02-22 06:03:11 - [test_login.py:16] - INFO - Opening the login page
+2024-02-22 06:03:14 - [test_login.py:19] - INFO - Email qa.ajax.app.automation@gmail.com entered
+2024-02-22 06:03:15 - [test_login.py:21] - INFO - Password qa_automation_password entered
+2024-02-22 06:03:16 - [test_login.py:23] - INFO - Clicked login button
+2024-02-22 06:03:16 - [test_login.py:26] - INFO - Authorized
+2024-02-22 06:03:30 - [test_login.py:29] - INFO - Account logout is successful
+2024-02-22 06:03:30 - [test_login.py:14] - INFO - Starting activity
+2024-02-22 06:03:35 - [test_login.py:16] - INFO - Opening the login page
+2024-02-22 06:03:36 - [test_login.py:19] - INFO - Email qa.ajax.app.automation@gmail.co entered
+2024-02-22 06:03:37 - [test_login.py:21] - INFO - Password qa_automation_password entered
+2024-02-22 06:03:39 - [test_login.py:23] - INFO - Clicked login button
+2024-02-22 06:03:41 - [test_login.py:32] - INFO - Not authorized
+2024-02-22 06:03:41 - [test_login.py:34] - INFO - Return to start page
+2024-02-22 06:03:41 - [test_login.py:14] - INFO - Starting activity
+2024-02-22 06:03:44 - [test_login.py:16] - INFO - Opening the login page
+2024-02-22 06:03:45 - [test_login.py:19] - INFO - Email qa.ajax.app.automation@gmail.com entered
+2024-02-22 06:03:46 - [test_login.py:21] - INFO - Password qa_automation_passwor entered
+2024-02-22 06:03:48 - [test_login.py:23] - INFO - Clicked login button
+2024-02-22 06:03:48 - [test_login.py:32] - INFO - Not authorized
+2024-02-22 06:03:49 - [test_login.py:34] - INFO - Return to start page
+2024-02-22 06:03:49 - [test_sidebar.py:19] - INFO - Starting activity
+2024-02-22 06:03:50 - [test_sidebar.py:21] - INFO - Opening the login page
+2024-02-22 06:03:52 - [test_sidebar.py:24] - INFO - Email entered
+2024-02-22 06:03:53 - [test_sidebar.py:26] - INFO - Password entered
+2024-02-22 06:03:54 - [test_sidebar.py:28] - INFO - Clicked login button
+2024-02-22 06:04:04 - [test_sidebar.py:31] - INFO - Authorized
+2024-02-22 06:04:05 - [test_sidebar.py:13] - INFO - settings button is visible and clickable
+2024-02-22 06:04:06 - [test_sidebar.py:13] - INFO - help button is visible and clickable
+2024-02-22 06:04:06 - [test_sidebar.py:13] - INFO - logs button is visible and clickable
+2024-02-22 06:04:06 - [test_sidebar.py:13] - INFO - camera button is visible and clickable
+2024-02-22 06:04:06 - [test_sidebar.py:13] - INFO - add_hub button is visible and clickable
+2024-02-22 06:04:06 - [test_sidebar.py:13] - INFO - doc button is visible and clickable
+2024-02-22 06:04:06 - [test_sidebar.py:57] - INFO - All elements have been checked
+2024-02-22 06:04:08 - [test_sidebar.py:59] - INFO - Account logout is successful
